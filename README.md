@@ -6,5 +6,7 @@ you can have casual conservations and check the weather forecast
 -Ai와 간단한 대화를 할 수 있습니다.
 <img width="940" height="739" alt="image" src="https://github.com/user-attachments/assets/aaa1cf8c-5440-44c2-9f9a-eefb0de9d9b8" />
 -현재 위치의 오늘, 내일, 모레, 글피 등 날씨 확인이 가능합니다.
+<img width="986" height="709" alt="image" src="https://github.com/user-attachments/assets/e224173b-1327-4404-a84b-66917b5df571" />
+-특정 요일의 날씨예보 또한 요청 가능합니다.
 <img width="960" height="754" alt="image" src="https://github.com/user-attachments/assets/b90a412d-77eb-4b3a-ace7-f25c9a8597ee" />
 -5일 날씨예보를 원할 시 한 눈에 알아볼 수 있게 전달해드립니다.
